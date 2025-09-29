@@ -1,2 +1,7 @@
 pydantic library allows to create data model
+Docling ==> document extraction library
 
+
+## difference btw completion model and chat completion model
+single prompt, .Completion.create()
+chat mode, conversational flow .ChatCompletion.create()
