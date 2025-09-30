@@ -1,0 +1,7 @@
+langchain
+pydantic
+openai
+langchain-community
+chromadb
+tiktoken
+huggingface_hub

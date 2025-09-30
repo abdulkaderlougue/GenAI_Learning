@@ -5,3 +5,5 @@ Docling ==> document extraction library
 ## difference btw completion model and chat completion model
 single prompt, .Completion.create()
 chat mode, conversational flow .ChatCompletion.create()
+
+chromadb is a local vector database => pip install chromadb (see documentation)

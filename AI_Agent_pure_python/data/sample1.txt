@@ -1,0 +1,5 @@
+In addition, continuous fine-tuning of LLMs to align with specific business needs will enhance their relevance and accuracy, ensuring they meet the high standards of business environments. And lastly, expanding AI capabilities to support multiple languages will make our products more accessible and valuable to a global user base, fostering collaboration and productivity across diverse teams.
+
+The integration of RAG and AI agents has significantly enhanced Dropbox Dash with AI capabilities to bring useful answers to users’ questions, and we’re focused on addressing challenges and exploring opportunities based on what we’ve learned. We’re also committed to our AI principles and being worthy of trust. By consistently innovating and refining our approach, we aim to develop products that meet the current needs of businesses and help move the future of knowledge work forward. 
+
+The landscape of business AI is evolving rapidly, and we’re excited about advancing AI capabilities to empower users to focus on truly meaningful, human work. 
