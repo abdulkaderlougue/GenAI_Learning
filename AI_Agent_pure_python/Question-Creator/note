@@ -1,0 +1,2 @@
+Pdf --> extract docs --> create chunks --> embedding model --> 
+vector embedding --> semantic search --> vector db --> llm
